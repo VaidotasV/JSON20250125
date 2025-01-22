@@ -1,8 +1,14 @@
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.Objects;
 
 public class Person {
+    @JsonProperty("vardas")
     private String name;
+
+    @JsonProperty("amzius")
     private int age;
+
+    @JsonProperty("el_pastas")
     private String email;
 
     public Person() {
