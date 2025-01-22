@@ -1,0 +1,13 @@
+[ {
+  "vardas" : "Vaidotas",
+  "amzius" : 30,
+  "el_pastas" : "vaidotas@gmail.com"
+}, {
+  "vardas" : "Marius",
+  "amzius" : 40,
+  "el_pastas" : "marius@gmail.com"
+}, {
+  "vardas" : "Edmundas",
+  "amzius" : 40,
+  "el_pastas" : "edmundas@gmail.com"
+} ]
